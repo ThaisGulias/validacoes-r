@@ -1,5 +1,5 @@
 # validacoes-r
-Uso da linguagem R para validação multivariavel em analise ambiental da Dissertação:
+Uso da linguagem R e VBA para validação multivariavel em analise ambiental da Dissertação:
 
 https://www.maxwell.vrac.puc-rio.br/50994/50994.PDF
 
