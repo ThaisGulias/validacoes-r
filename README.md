@@ -5,7 +5,7 @@ https://www.maxwell.vrac.puc-rio.br/50994/50994.PDF
 
 Resumo
 --
-Oliveira, Thais Gulias; Rego, Luiz Felipe Guanaes. análise da fragmentação
+Oliveira, Thais Gulias; Rego, Luiz Felipe Guanaes. Análise da fragmentação
 florestal e a Lei de Proteção da Vegetação Nativa: o município de Silva
 Jardim, RJ. Rio de Janeiro, 2020. 104p. Dissertação de Mestrado –
 Departamento de Geografia, Pontifícia Universidade Católica do Rio de
