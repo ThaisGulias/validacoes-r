@@ -31,6 +31,4 @@ Finalmente, quando analisamos a eficiência da LPNV, não podemos anular o
 processo de ocupação, dado que as áreas mais fragmentadas estão nos limites de
 APP de curso d’água em áreas planas. Sendo assim, é preciso pensar em planos de
 educação e conscientização da população para a conservação da Mata Atlântica.
-Palavras- chave
-Ecologia da Paisagem; Mata Atlântica; Fragmentos; Lei de Proteção da
-Vegetação Nativa; Geotecnologia.
+
