@@ -1,6 +1,5 @@
 # validacoes-r
 Uso da linguagem R e VBA para validação multivariável em análise ambiental da Dissertação:
---Mapas produzidos no ArcGis.
 
 https://www.maxwell.vrac.puc-rio.br/50994/50994.PDF
 
@@ -37,6 +36,6 @@ educação e conscientização da população para a conservação da Mata Atlâ
 
 ![1682336934031](https://github.com/thaisgulias/validacoes-r/assets/122481212/e20f2f17-62c1-4b40-a384-6bd29c732c27)
 
-
+--Mapas produzidos no ArcGis.
 
 
