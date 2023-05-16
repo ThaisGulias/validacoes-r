@@ -32,3 +32,10 @@ processo de ocupação, dado que as áreas mais fragmentadas estão nos limites 
 APP de curso d’água em áreas planas. Sendo assim, é preciso pensar em planos de
 educação e conscientização da população para a conservação da Mata Atlântica.
 
+
+
+![1682336934031](https://github.com/thaisgulias/validacoes-r/assets/122481212/e20f2f17-62c1-4b40-a384-6bd29c732c27)
+
+
+
+
